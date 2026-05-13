@@ -2,41 +2,124 @@
 
 # Davi Nunes
 
+```console
+Full Stack Developer • Systems Analyst • Technology Student
+```
 
-Analista de Sistemas • Full Stack Developer • Tech Enthusiast
-<p align="center"> <a href="https://www.linkedin.com/"> <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/"> <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="mailto:seuemail@email.com"> <img src="https://img.shields.io/badge/Email-181818?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f0f0f,100:2d2d2d&section=header"/> </div>
-About
+<p align="center">
+  <a href="https://github.com/nDaviNunes">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:seuemail@email.com">
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:050505,100:111827&section=header"/>
+
+</div>
+
+---
+
+# About Me
+
+```yaml
 name: Davi Nunes
 age: 18
-location: Corumbá - MS
+location: Corumbá - MS, Brazil
+
 focus:
   - Full Stack Development
   - REST APIs
   - Web Systems
-  - Database Modeling
-  - UI/UX Interfaces
+  - Backend Architecture
+  - UI Interfaces
 
 currently_learning:
   - Java Spring
   - Docker
   - Laravel
   - PostgreSQL
-  - System Architecture
-Stack
-<div align="center"> <img src="https://skillicons.dev/icons?i=java,spring,php,laravel,js,html,css,postgresql,mysql,docker,git,github,vscode&theme=dark" /> </div>
-Featured Projects
-Dashboard Mineração
-Web dashboard focused on monitoring and visualization
-of mining and operational data with a modern interface.
-SISCO
-Web system for managing diversified certificate hours,
-developed as a TCC project using Laravel and MVC architecture.
-GitHub Analytics
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=cfcfcf&icon_color=8b5cf6"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=cfcfcf"/> </div>
-Activity
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEUUSUARIO&bg_color=0d1117&color=ffffff&line=6e40c9&point=ffffff&hide_border=true"/> </div>
-Current Goals
-> Build scalable systems
-> Improve backend architecture skills
+  - System Design
+```
+
+---
+
+# Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,php,laravel,js,html,css,postgresql,mysql,docker,git,github,vscode&theme=dark"/>
+
+</div>
+
+---
+
+# Featured Projects
+
+## Dashboard Mineração
+
+```txt
+Modern web dashboard for operational monitoring
+and mining data visualization.
+```
+
+## SISCO
+
+```txt
+Academic management system focused on diversified
+certificate hours using Laravel MVC architecture.
+```
+
+## IFMS Sistema Carga Horária
+
+```txt
+System developed for academic workload
+organization and management.
+```
+
+---
+
+# GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nDaviNunes&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=9ca3af&icon_color=6366f1"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nDaviNunes&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=9ca3af"/>
+
+</div>
+
+---
+
+# Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nDaviNunes&bg_color=0d1117&color=ffffff&line=6366f1&point=ffffff&hide_border=true"/>
+
+</div>
+
+---
+
+# Current Goals
+
+```txt
+> Build scalable applications
+> Improve backend performance
 > Create modern and minimalist interfaces
-> Work professionally with technology
+> Become a technology professional
+```
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:111827,100:050505&section=footer"/>
+
+</div>
