@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-09090B?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 
-<a href="mailto:davinunes.dev@gmail.com">
+<a href="mailto:ndavisilvan@gmail.com">
   <img src="https://img.shields.io/badge/Email-09090B?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 </div>
