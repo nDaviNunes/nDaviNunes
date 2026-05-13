@@ -1,66 +1,74 @@
 <div align="center">
 
-# Davi Nunes
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Davi%20Nunes&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&color=0:050816,100:0B1220"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Systems+Analyst;Technology+Student"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Systems+Analyst;Full+Stack+Developer;Backend+Focused;Technology+Student"/>
 
 <br>
 
 <a href="https://github.com/nDaviNunes">
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-09090B?style=for-the-badge&logo=github&logoColor=58A6FF"/>
 </a>
 
 <a href="https://linkedin.com">
-  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-09090B?style=for-the-badge&logo=linkedin&logoColor=58A6FF"/>
 </a>
 
 <a href="mailto:seuemail@email.com">
-  <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-09090B?style=for-the-badge&logo=gmail&logoColor=58A6FF"/>
 </a>
 
 <br><br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:050505,100:111827&section=header"/>
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31v3k7p7q4h5l4m4v7l4xqf6e4su&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false"/>
 
 </div>
 
 ---
 
-# About Me
+#  About
+
+<img align="right" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3p4eGh4eThmMzV5NnVwNTRqZ3I4eHN1Y3k0N2p1aTBvN3R1YXNyYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l378BzHA5FwWFXVSg/giphy.gif"/>
 
 ```yaml
 name: Davi Nunes
 age: 18
 location: Corumbá - MS, Brazil
 
+role: Full Stack Developer
+
 focus:
-  - Full Stack Development
   - REST APIs
-  - Web Systems
+  - Web Applications
   - Backend Architecture
   - UI Interfaces
+  - Database Modeling
 
-currently_learning:
+learning:
   - Java Spring
-  - Docker
   - Laravel
   - PostgreSQL
+  - Docker
   - System Design
 ```
 
+<br><br><br><br><br><br><br><br>
+
 ---
 
-# Tech Stack
+#  Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,php,laravel,js,html,css,postgresql,mysql,docker,git,github,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=java,spring,php,laravel,javascript,html,css,postgresql,mysql,docker,git,github,vscode&theme=dark"/>
 
 </div>
 
 ---
 
-# Featured Projects
+#  Featured Projects
+
+<div align="center">
 
 <table>
 <tr>
@@ -69,8 +77,9 @@ currently_learning:
 ### Dashboard Mineração
 
 ```txt
-Modern web dashboard for operational
-monitoring and mining data visualization.
+Operational monitoring dashboard
+focused on modern visualization
+and data management.
 ```
 
 </td>
@@ -80,51 +89,42 @@ monitoring and mining data visualization.
 ### SISCO
 
 ```txt
-Academic management system focused on
-certificate hours using Laravel MVC.
+Web platform developed for
+certificate workload management
+using Laravel MVC architecture.
 ```
 
 </td>
 </tr>
 </table>
 
+</div>
+
 ---
 
-# GitHub Stats
+#  Contribution Activity
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=nDaviNunes&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=9ca3af&icon_color=58A6FF"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nDaviNunes&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=9ca3af"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nDaviNunes&bg_color=050816&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true"/>
 
 </div>
 
 ---
 
-# Contribution Graph
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nDaviNunes&bg_color=0d1117&color=ffffff&line=58A6FF&point=ffffff&hide_border=true"/>
-
-</div>
-
----
-
-# Current Goals
+#  Current Goals
 
 ```txt
-> Build scalable applications
-> Improve backend architecture
-> Create modern interfaces
-> Work professionally with technology
+> Build scalable systems
+> Improve backend performance
+> Develop modern interfaces
+> Become a professional software engineer
 ```
 
 ---
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:111827,100:050505&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:050816,100:0B1220"/>
 
 </div>
