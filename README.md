@@ -14,7 +14,7 @@
 
 ## 👨‍💻 Sobre mim
 
-```js
+js
 const davi = {
   formação: [
     "Sistemas de Informação - UFMS",
