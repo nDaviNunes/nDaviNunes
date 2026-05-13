@@ -5,19 +5,17 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Desenvolvedor+Full+Stack;Analista+de+Sistemas;Focado+em+Backend;Estudante+de+Tecnologia"/>
 
 <br>
-
 <a href="https://github.com/nDaviNunes">
   <img src="https://img.shields.io/badge/GitHub-09090B?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="[https://www.linkedin.com/in/davi-nunes-840220367/](https://www.linkedin.com/in/davi-nunes-1165aa364/)">
+<a href="https://www.linkedin.com/in/davi-nunes-1165aa364/">
   <img src="https://img.shields.io/badge/LinkedIn-09090B?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 
 <a href="mailto:davinunes.dev@gmail.com">
   <img src="https://img.shields.io/badge/Email-09090B?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
-
 </div>
 
 ---
