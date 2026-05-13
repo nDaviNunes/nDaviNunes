@@ -5,13 +5,15 @@
 </p>
 
 <div align="center">
-  <a href="http://linkedin.com/in/davi-nunes-1165aa364/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
 
-  <a href="mailto:seuemail@email.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<a href="http://linkedin.com/in/davi-nunes-1165aa364/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:seuemail@email.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </div>
 
 ---
@@ -20,9 +22,6 @@
 
 ```javascript
 const davi = {
-  idade: 18,
-  localização: "Mato Grosso do Sul - Brasil",
-
   formação: [
     "Sistemas de Informação - UFMS",
     "Técnico em Informática - IFMS"
@@ -30,18 +29,38 @@ const davi = {
 
   atuação: "Full Stack Developer",
 
-  interesses: [
-    "Tecnologia",
-    "Academia",
-    "Edição de Vídeo",
-    "APIs REST",
-    "UI Design"
-  ],
+  tecnologias: {
+    frontEnd: [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React"
+    ],
 
-  atualmenteAprendendo: [
-    "Spring Boot",
-    "Docker",
+    backEnd: [
+      "PHP",
+      "Laravel",
+      "Java",
+      "Spring Boot"
+    ],
+
+    bancoDados: [
+      "MySQL",
+      "PostgreSQL"
+    ],
+
+    ferramentas: [
+      "Docker",
+      "Git",
+      "Figma",
+      "VS Code"
+    ]
+  },
+
+  focadoEm: [
+    "APIs REST",
     "Arquitetura de Software",
+    "Desenvolvimento Web",
     "Clean Code"
   ]
 }
@@ -63,9 +82,9 @@ const davi = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=DaviNunes&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviNunes&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -73,10 +92,10 @@ const davi = {
 
 ## 🎯 Projetos
 
-📚 Sistema web para gerenciamento acadêmico  
-🔗 API REST com Spring Boot  
-🎮 Jogos web educativos  
-🐳 Projetos utilizando Docker  
+- 📚 Sistema web para gerenciamento acadêmico
+- 🔗 API REST com Spring Boot
+- 🎮 Jogos web educativos
+- 🐳 Projetos utilizando Docker
 
 ---
 
@@ -84,9 +103,9 @@ const davi = {
 
 ```javascript
 while(alive){
-   eat();
-   gym();
    code();
+   learn();
+   gym();
    sleep();
 }
 ```
@@ -95,6 +114,6 @@ while(alive){
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SEUUSUARIO&theme=tokyonight&no-frame=true&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=DaviNunes&theme=tokyonight&no-frame=true&row=1"/>
 
 </div>
