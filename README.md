@@ -27,15 +27,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
 ---
 
 ## 🛠️ Projetos em destaque
@@ -54,25 +45,23 @@ Sistema web desenvolvido para facilitar o gerenciamento de horas diversificadas 
 
 ---
 
-### 📌 API Acadêmica
+### 📌 Dashboard de Mineração
 
-Projeto focado na importação e manipulação de dados acadêmicos utilizando Java Spring Boot.
+Dashboard desenvolvido para monitoramento e visualização de dados relacionados à mineração.
 
-**Recursos:**
+**Funcionalidades:**
 
-* Importação de arquivos CSV
-* Integração com PostgreSQL
-* Containerização com Docker
-* API RESTful
+* Visualização de métricas em tempo real
+* Interface moderna e responsiva
+* Gráficos e indicadores dinâmicos
+* Organização de dados operacionais
 
----
+**Tecnologias utilizadas:**
 
-## 🎯 Objetivos
-
-✔️ Evoluir como Desenvolvedor Full Stack
-✔️ Trabalhar na área de tecnologia
-✔️ Aprender novas tecnologias constantemente
-✔️ Construir projetos modernos e úteis
+* JavaScript
+* HTML
+* CSS
+* Banco de Dados
 
 ---
 
