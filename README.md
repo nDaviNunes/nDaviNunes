@@ -2,25 +2,25 @@
 
 # Davi Nunes
 
-```console
-Full Stack Developer • Systems Analyst • Technology Student
-```
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Systems+Analyst;Technology+Student"/>
 
-<p align="center">
-  <a href="https://github.com/nDaviNunes">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+<br>
 
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<a href="https://github.com/nDaviNunes">
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-  <a href="mailto:seuemail@email.com">
-    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<a href="https://linkedin.com">
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:050505,100:111827&section=header"/>
+<a href="mailto:seuemail@email.com">
+  <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:050505,100:111827&section=header"/>
 
 </div>
 
@@ -62,26 +62,31 @@ currently_learning:
 
 # Featured Projects
 
-## Dashboard Mineração
+<table>
+<tr>
+<td width="50%">
+
+### Dashboard Mineração
 
 ```txt
-Modern web dashboard for operational monitoring
-and mining data visualization.
+Modern web dashboard for operational
+monitoring and mining data visualization.
 ```
 
-## SISCO
+</td>
+
+<td width="50%">
+
+### SISCO
 
 ```txt
-Academic management system focused on diversified
-certificate hours using Laravel MVC architecture.
+Academic management system focused on
+certificate hours using Laravel MVC.
 ```
 
-## IFMS Sistema Carga Horária
-
-```txt
-System developed for academic workload
-organization and management.
-```
+</td>
+</tr>
+</table>
 
 ---
 
@@ -89,9 +94,9 @@ organization and management.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nDaviNunes&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=9ca3af&icon_color=6366f1"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=nDaviNunes&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=9ca3af&icon_color=58A6FF"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nDaviNunes&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=9ca3af"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nDaviNunes&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=9ca3af"/>
 
 </div>
 
@@ -101,7 +106,7 @@ organization and management.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nDaviNunes&bg_color=0d1117&color=ffffff&line=6366f1&point=ffffff&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nDaviNunes&bg_color=0d1117&color=ffffff&line=58A6FF&point=ffffff&hide_border=true"/>
 
 </div>
 
@@ -111,15 +116,15 @@ organization and management.
 
 ```txt
 > Build scalable applications
-> Improve backend performance
-> Create modern and minimalist interfaces
-> Become a technology professional
+> Improve backend architecture
+> Create modern interfaces
+> Work professionally with technology
 ```
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:111827,100:050505&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:111827,100:050505&section=footer"/>
 
 </div>
