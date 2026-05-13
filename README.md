@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/GitHub-09090B?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/davi-nunes-840220367/">
+<a href="[https://www.linkedin.com/in/davi-nunes-840220367/](https://www.linkedin.com/in/davi-nunes-1165aa364/)">
   <img src="https://img.shields.io/badge/LinkedIn-09090B?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 
