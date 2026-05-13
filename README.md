@@ -1,21 +1,28 @@
-<h1 align="center">Davi Nunes</h1>
+<h1 align="center">Olá 👋, eu sou Davi Nunes</h1>
 
 <p align="center">
-  Full Stack Developer • UFMS
+  💻 Full Stack Developer • 🎓 Sistemas de Informação - UFMS
 </p>
 
 <div align="center">
   <a href="http://linkedin.com/in/davi-nunes-1165aa364/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
+  <a href="mailto:seuemail@email.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </div>
 
 ---
 
-## 👨‍💻 Sobre mim
+## 🚀 Sobre mim
 
 ```javascript
 const davi = {
+  idade: 18,
+  localização: "Mato Grosso do Sul - Brasil",
+
   formação: [
     "Sistemas de Informação - UFMS",
     "Técnico em Informática - IFMS"
@@ -23,37 +30,18 @@ const davi = {
 
   atuação: "Full Stack Developer",
 
-  tecnologias: {
-    frontEnd: [
-      "HTML",
-      "CSS",
-      "JavaScript",
-      "React"
-    ],
-
-    backEnd: [
-      "PHP",
-      "Laravel",
-      "Java",
-      "Spring Boot"
-    ],
-
-    bancoDados: [
-      "MySQL",
-      "PostgreSQL"
-    ],
-
-    ferramentas: [
-      "Docker",
-      "Git",
-      "Figma"
-    ]
-  },
-
-  focadoEm: [
+  interesses: [
+    "Tecnologia",
+    "Academia",
+    "Edição de Vídeo",
     "APIs REST",
+    "UI Design"
+  ],
+
+  atualmenteAprendendo: [
+    "Spring Boot",
+    "Docker",
     "Arquitetura de Software",
-    "Desenvolvimento Web",
     "Clean Code"
   ]
 }
@@ -65,31 +53,7 @@ const davi = {
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45"/>
-<img width="10"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45"/>
-<img width="10"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45"/>
-<img width="10"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45"/>
-<img width="10"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45"/>
-<img width="10"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="45"/>
-<img width="10"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45"/>
-<img width="10"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45"/>
-<img width="10"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,java,spring,php,laravel,mysql,postgres,docker,git,figma,vscode&theme=dark" />
 
 </div>
 
@@ -99,22 +63,38 @@ const davi = {
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=transparent"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=transparent"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-<div align="center">
+## 🎯 Projetos
+
+📚 Sistema web para gerenciamento acadêmico  
+🔗 API REST com Spring Boot  
+🎮 Jogos web educativos  
+🐳 Projetos utilizando Docker  
+
+---
+
+## ⚡ Atualmente
 
 ```javascript
 while(alive){
-   learn();
+   eat();
+   gym();
    code();
-   evolve();
+   sleep();
 }
 ```
+
+---
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=SEUUSUARIO&theme=tokyonight&no-frame=true&row=1"/>
 
 </div>
