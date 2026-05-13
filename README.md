@@ -1,88 +1,42 @@
-# <div align="center">💻 Davi Nunes</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Estudante+de+Tecnologia;Java+%7C+Laravel+%7C+Docker;Apaixonado+por+Desenvolvimento+Web" alt="Typing SVG" />
-</div>
-
----
-
-## 👨‍💻 Sobre mim
-
-🎓 Estudante e apaixonado por tecnologia
-💡 Interessado em desenvolvimento web, APIs REST e banco de dados
-🚀 Desenvolvendo projetos com Java, Laravel, Docker e PostgreSQL
-📚 Atualmente focado em evoluir como Desenvolvedor Full Stack
-🏆 Participante de projetos acadêmicos e feira científica na área de Ciência da Computação
-🌎 Moro em Corumbá - MS, Brasil
-
----
-
-## 🚀 Tecnologias que utilizo
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,php,laravel,js,html,css,mysql,postgres,docker,git,github,vscode" />
+# Davi Nunes
 
-</div>
 
----
+Analista de Sistemas • Full Stack Developer • Tech Enthusiast
+<p align="center"> <a href="https://www.linkedin.com/"> <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/"> <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="mailto:seuemail@email.com"> <img src="https://img.shields.io/badge/Email-181818?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f0f0f,100:2d2d2d&section=header"/> </div>
+About
+name: Davi Nunes
+age: 18
+location: Corumbá - MS
+focus:
+  - Full Stack Development
+  - REST APIs
+  - Web Systems
+  - Database Modeling
+  - UI/UX Interfaces
 
----
-
-## 🛠️ Projetos em destaque
-
-### 📌 SISCO
-
-Sistema web desenvolvido para facilitar o gerenciamento de horas diversificadas e certificados acadêmicos.
-
-**Tecnologias utilizadas:**
-
-* Laravel
-* PostgreSQL
-* Docker
-* API REST
-* MVC
-
----
-
-### 📌 Dashboard de Mineração
-
-Dashboard desenvolvido para monitoramento e visualização de dados relacionados à mineração.
-
-**Funcionalidades:**
-
-* Visualização de métricas em tempo real
-* Interface moderna e responsiva
-* Gráficos e indicadores dinâmicos
-* Organização de dados operacionais
-
-**Tecnologias utilizadas:**
-
-* JavaScript
-* HTML
-* CSS
-* Banco de Dados
-
----
-
-## 🌐 Redes Sociais
-
-<div align="center">
-
-<a href="http://linkedin.com/in/davi-nunes-">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://github.com/SEUUSUARIO">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### ⚡ "Transformando ideias em código"
-
-</div>
+currently_learning:
+  - Java Spring
+  - Docker
+  - Laravel
+  - PostgreSQL
+  - System Architecture
+Stack
+<div align="center"> <img src="https://skillicons.dev/icons?i=java,spring,php,laravel,js,html,css,postgresql,mysql,docker,git,github,vscode&theme=dark" /> </div>
+Featured Projects
+Dashboard Mineração
+Web dashboard focused on monitoring and visualization
+of mining and operational data with a modern interface.
+SISCO
+Web system for managing diversified certificate hours,
+developed as a TCC project using Laravel and MVC architecture.
+GitHub Analytics
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=cfcfcf&icon_color=8b5cf6"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=cfcfcf"/> </div>
+Activity
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEUUSUARIO&bg_color=0d1117&color=ffffff&line=6e40c9&point=ffffff&hide_border=true"/> </div>
+Current Goals
+> Build scalable systems
+> Improve backend architecture skills
+> Create modern and minimalist interfaces
+> Work professionally with technology
